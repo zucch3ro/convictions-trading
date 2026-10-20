@@ -1,0 +1,134 @@
+{
+  "convictions": [
+    {
+      "action": "buy",
+      "currency": "EUR",
+      "entry_plan": "Entrée par paliers sous 400 €, idéal en DCA.",
+      "name": "LVMH",
+      "partial_tp": {
+        "sell_pct": 50.0,
+        "trigger_pct": 6.0
+      },
+      "rationale": "Conviction confirmée le 20/10/2026 après analyse du marché — profil agressif : trailing stop 8 %, prise de profit partielle à +6 %.",
+      "risks": "Ralentissement Chine, dollar faible, consommation discrétionnaire.",
+      "stop_loss": "340 €",
+      "stop_price": 340.0,
+      "symbol": "MC.PA",
+      "target": "480 € à 12-18 mois",
+      "target_pct": 16,
+      "target_price": 480.0,
+      "thesis": "Leader mondial du luxe, pricing power exceptionnel, 75 maisons diversifiées ; valorisation redevenue raisonnable après la correction du secteur.",
+      "trailing_stop_pct": 8.0
+    },
+    {
+      "action": "buy",
+      "currency": "EUR",
+      "entry_plan": "Entrée sous 82 €.",
+      "name": "TotalEnergies",
+      "partial_tp": {
+        "sell_pct": 50.0,
+        "trigger_pct": 6.0
+      },
+      "rationale": "Conviction confirmée le 20/10/2026 après analyse du marché — profil agressif : trailing stop 8 %, prise de profit partielle à +6 %.",
+      "risks": "Prix du pétrole, pression ESG et fiscale.",
+      "stop_loss": "68 €",
+      "stop_price": 68.0,
+      "symbol": "TTE.PA",
+      "target": "95 €",
+      "target_pct": 16,
+      "target_price": 95.0,
+      "thesis": "Rendement dividende ~7 %, stratégie multi-énergies (GNL + renouvelables), discipline d'investissement.",
+      "trailing_stop_pct": 8.0
+    },
+    {
+      "action": "buy",
+      "currency": "EUR",
+      "entry_plan": "Entrée sous 73 €.",
+      "name": "Sanofi",
+      "partial_tp": {
+        "sell_pct": 50.0,
+        "trigger_pct": 6.0
+      },
+      "rationale": "Conviction confirmée le 20/10/2026 après analyse du marché — profil agressif : trailing stop 8 %, prise de profit partielle à +6 %.",
+      "risks": "Échecs cliniques, pression sur les prix aux US.",
+      "stop_loss": "62 €",
+      "stop_price": 62.0,
+      "symbol": "SAN.PA",
+      "target": "88 €",
+      "target_pct": 16,
+      "target_price": 88.0,
+      "thesis": "Pipeline pharma (Dupixent et suivants), décote face aux pairs, rendement ~5 %.",
+      "trailing_stop_pct": 8.0
+    },
+    {
+      "action": "buy",
+      "currency": "USD",
+      "entry_plan": "Entrée sous 350 $, plutôt en DCA.",
+      "name": "Apple",
+      "partial_tp": {
+        "sell_pct": 50.0,
+        "trigger_pct": 6.0
+      },
+      "rationale": "Conviction confirmée le 20/10/2026 après analyse du marché — profil agressif : trailing stop 8 %, prise de profit partielle à +6 %.",
+      "risks": "Valorisation élevée, Chine, cycle iPhone.",
+      "stop_loss": "295 $",
+      "stop_price": 295.0,
+      "symbol": "AAPL",
+      "target": "420 $",
+      "target_pct": 16,
+      "target_price": 420.0,
+      "thesis": "Base installée massive, croissance des services à forte marge, retours aux actionnaires.",
+      "trailing_stop_pct": 8.0
+    },
+    {
+      "action": "buy",
+      "currency": "USD",
+      "entry_plan": "Entrée sous 540 $.",
+      "name": "Microsoft",
+      "partial_tp": {
+        "sell_pct": 50.0,
+        "trigger_pct": 6.0
+      },
+      "rationale": "Conviction confirmée le 20/10/2026 après analyse du marché — profil agressif : trailing stop 8 %, prise de profit partielle à +6 %.",
+      "risks": "Valorisation, concurrence IA.",
+      "stop_loss": "450 $",
+      "stop_price": 450.0,
+      "symbol": "MSFT",
+      "target": "640 $",
+      "target_pct": 16,
+      "target_price": 640.0,
+      "thesis": "Azure + IA, Office en abonnement, croissance bénéficiaire régulière.",
+      "trailing_stop_pct": 8.0
+    },
+    {
+      "action": "buy",
+      "currency": "EUR",
+      "entry_plan": "Entrée sur repli de 10 % depuis 1477 €.",
+      "name": "ASML",
+      "partial_tp": {
+        "sell_pct": 50.0,
+        "trigger_pct": 6.0
+      },
+      "rationale": "Conviction confirmée le 20/10/2026 après analyse du marché — profil agressif : trailing stop 8 %, prise de profit partielle à +6 %.",
+      "risks": "Restrictions d'export vers la Chine, cyclicité des semi-conducteurs.",
+      "stop_loss": "-15 % (~1255 €)",
+      "stop_price": 1255.0,
+      "symbol": "ASML.AS",
+      "target": "+25 % (~1846 €)",
+      "target_pct": 16,
+      "target_price": 1846.0,
+      "thesis": "Monopole de la lithographie EUV, indispensable à la vague IA, carnet de commandes solide.",
+      "trailing_stop_pct": 8.0
+    }
+  ],
+  "notes": "Convictions de Best_Pasqua — profil agressif (test 1 mois, objectif +10 %). Analyse du 20/10/2026 : convictions confirmées, aucun changement significatif (Sanofi +3,4 % sur la journée, aucun stop ni objectif touché). Pistes de réflexion sérieuses, pas des conseils d'achat.",
+  "publisher": "Best_Pasqua",
+  "test": {
+    "benchmark": "^FCHI",
+    "goal_pct": 10.0,
+    "max_drawdown_pct": 8.0,
+    "start_date": "2026-10-18"
+  },
+  "updated_at": "2026-10-20",
+  "version": 3
+}
