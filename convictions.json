@@ -4,7 +4,7 @@
       "action": "trim",
       "currency": "EUR",
       "entry_plan": "Entrée par paliers sous 400 €, idéal en DCA.",
-      "name": "LVMH",
+      "name": "LVMH Moët Hennessy Louis Vuitton SE",
       "partial_tp": {
         "sell_pct": 50.0,
         "trigger_pct": 6.0
@@ -24,7 +24,7 @@
       "action": "trim",
       "currency": "EUR",
       "entry_plan": "Entrée sous 82 €.",
-      "name": "TotalEnergies",
+      "name": "TotalEnergies SE",
       "partial_tp": {
         "sell_pct": 50.0,
         "trigger_pct": 6.0
@@ -64,7 +64,7 @@
       "action": "trim",
       "currency": "USD",
       "entry_plan": "Entrée sous 350 $, plutôt en DCA.",
-      "name": "Apple",
+      "name": "Apple Inc.",
       "partial_tp": {
         "sell_pct": 50.0,
         "trigger_pct": 6.0
@@ -84,7 +84,7 @@
       "action": "trim",
       "currency": "USD",
       "entry_plan": "Entrée sous 540 $.",
-      "name": "Microsoft",
+      "name": "Microsoft Corporation",
       "partial_tp": {
         "sell_pct": 50.0,
         "trigger_pct": 6.0
@@ -104,7 +104,7 @@
       "action": "trim",
       "currency": "EUR",
       "entry_plan": "Entrée sur repli de 10 % depuis 1477 €.",
-      "name": "ASML",
+      "name": "ASML Holding N.V.",
       "partial_tp": {
         "sell_pct": 50.0,
         "trigger_pct": 6.0
@@ -193,5 +193,5 @@
     "start_date": "2026-10-18"
   },
   "updated_at": "2026-10-20",
-  "version": 5
+  "version": 6
 }
