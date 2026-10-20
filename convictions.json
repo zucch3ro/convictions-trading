@@ -121,7 +121,7 @@
       "trailing_stop_pct": 8.0
     }
   ],
-  "notes": "Convictions de Best_Pasqua — profil agressif (test 1 mois, objectif +10 %). Analyse du 20/10/2026 : convictions confirmées, aucun changement significatif (Sanofi +3,4 % sur la journée, aucun stop ni objectif touché). Pistes de réflexion sérieuses, pas des conseils d'achat.",
+  "notes": "C'est sur GitHub. Convictions de Best_Pasqua — profil agressif (test 1 mois, objectif +10 %). Analyse du 20/10/2026 : convictions confirmées, aucun changement significatif (Sanofi +3,4 % sur la journée, aucun stop ni objectif touché). Pistes de réflexion sérieuses, pas des conseils d'achat.",
   "publisher": "Best_Pasqua",
   "test": {
     "benchmark": "^FCHI",
@@ -130,5 +130,5 @@
     "start_date": "2026-10-18"
   },
   "updated_at": "2026-10-20",
-  "version": 3
+  "version": 4
 }
