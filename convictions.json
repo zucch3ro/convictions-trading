@@ -21,21 +21,21 @@
       "trailing_stop_pct": 8.0
     },
     {
-      "action": "buy",
+      "action": "sell",
       "currency": "EUR",
-      "entry_plan": "Entrée sous 82 €.",
+      "entry_plan": "Ré-entrée possible sur stabilisation au-dessus de 79 €, après retournement confirmé.",
       "name": "TotalEnergies SE",
       "partial_tp": {
         "sell_pct": 50.0,
         "trigger_pct": 6.0
       },
-      "rationale": "Transition crypto terminée : retour au renforcement normal à 13,5 % — thèse inchangée.",
+      "rationale": "Stop suiveur déclenché le 09/11/2026 : TotalEnergies a clôturé à 78,75 €, soit -8,4 % sous son plus haut du test (85,94 € le 30/10), au-delà du seuil de -8 % (79,06 €) ; plus bas du jour à 77,99 €. Cinquième séance de baisse consécutive (82,71 € le 03/11 → 78,75 €). Sortie de la position, thèse mise en pause en attendant une stabilisation — la glissade du pétrole pèse plus lourd que le rendement du dividende pour l'instant.",
       "risks": "Prix du pétrole, pression ESG et fiscale.",
       "stop_loss": "68 €",
       "stop_price": 68.0,
       "symbol": "TTE.PA",
       "target": "95 €",
-      "target_pct": 13.5,
+      "target_pct": 0.0,
       "target_price": 95.0,
       "thesis": "Rendement dividende ~7 %, stratégie multi-énergies (GNL + renouvelables), discipline d'investissement.",
       "trailing_stop_pct": 8.0
@@ -146,8 +146,8 @@
       "name": "Ethereum",
       "currency": "EUR",
       "asset": "crypto",
-      "action": "buy",
-      "target_pct": 4.0,
+      "action": "sell",
+      "target_pct": 0.0,
       "trailing_stop_pct": 15.0,
       "partial_tp": {
         "trigger_pct": 12.0,
@@ -155,12 +155,12 @@
       },
       "thesis": "Plateforme de contrats intelligents dominante, écosystème d'applications le plus large, une partie des frais est brûlée.",
       "risks": "Volatilité, concurrence d'autres blockchains, régulation.",
-      "entry_plan": "Entrée directe, poche de 4 %.",
+      "entry_plan": "Ré-entrée possible sur stabilisation au-dessus de 1 950 €, après retournement confirmé.",
       "target": "3 000 €",
       "target_price": 3000.0,
       "stop_loss": "1 600 €",
       "stop_price": 1600.0,
-      "rationale": "Deuxième pilier crypto, moitié moins que Bitcoin vu le risque supérieur."
+      "rationale": "Stop suiveur -15 % déclenché : Ethereum a clôturé à 1 902,68 € le 08/11 puis 1 896,36 € le 09/11, soit -15,5 % sous son plus haut du test (2 245,53 € le 21/10), au-delà du seuil de 1 908,70 € ; plus bas du jour à 1 867,16 €. Sortie de la poche crypto, la règle de protection s'applique — le repli s'accélère sur tout le marché crypto."
     },
     {
       "symbol": "SOL-EUR",
@@ -184,7 +184,7 @@
       "rationale": "Stop suiveur -15 % déclenché le 05/11/2026 : Solana a clôturé à 79,39 €, soit -16,5 % sous son plus haut du test (95,06 € le 21/10), au-delà du seuil de 80,80 € ; le 07/11 il reste sous ce seuil à 80,63 €. Sortie de la poche satellite, la plus volatile des trois cryptos — la règle de protection s'applique, même si la thèse de fond reste intacte."
     }
   ],
-  "notes": "Poche crypto réduite : Solana vendue le 07/11/2026 après déclenchement de son stop suiveur -15 % (plus haut 95,06 € le 21/10, seuil 80,80 € franchi le 05/11). ASML vendue le 03/11/2026 après déclenchement de son stop suiveur -8 %. Les autres actions sont en « buy » à 13,5 % : la transition crypto est terminée. Pistes de réflexion, pas des conseils d'achat.",
+  "notes": "TotalEnergies vendue le 09/11/2026 après déclenchement de son stop suiveur -8 % (plus haut 85,94 € le 30/10, seuil 79,06 € franchi en clôture à 78,75 €). Ethereum vendu le 09/11/2026 après déclenchement de son stop suiveur -15 % (plus haut 2 245,53 € le 21/10, seuil 1 908,70 € franchi dès le 08/11 à 1 902,68 €, confirmé le 09/11). ASML : la zone de ré-entrée (~1 329 €) a été touchée en séance le 09/11 (plus bas 1 271,60 €) avec un rebond de +4,7 % en clôture — on attend une confirmation avant de revenir. Bitcoin sous surveillance : -11,7 % sous son plus haut (seuil -15 % à 64 187 €). Solana vendue le 07/11/2026, ASML vendue le 03/11/2026 (stops suiveurs déclenchés). Pistes de réflexion, pas des conseils d'achat.",
   "publisher": "Best_Pasqua",
   "test": {
     "benchmark": "^FCHI",
@@ -192,6 +192,6 @@
     "max_drawdown_pct": 8.0,
     "start_date": "2026-10-18"
   },
-  "updated_at": "2026-11-07",
-  "version": 8
+  "updated_at": "2026-11-09",
+  "version": 9
 }
