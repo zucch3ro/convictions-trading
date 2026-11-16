@@ -21,42 +21,42 @@
       "trailing_stop_pct": 8.0
     },
     {
-      "action": "sell",
+      "action": "buy",
       "currency": "EUR",
-      "entry_plan": "Ré-entrée possible sur stabilisation au-dessus de 79 €, après retournement confirmé.",
+      "entry_plan": "Ré-entrée à 82,17 € le 13/11 ; stop suiveur -8 % (~75,60 €).",
       "name": "TotalEnergies SE",
       "partial_tp": {
         "sell_pct": 50.0,
         "trigger_pct": 6.0
       },
-      "rationale": "Stop suiveur déclenché le 09/11/2026 : TotalEnergies a clôturé à 78,75 €, soit -8,4 % sous son plus haut du test (85,94 € le 30/10), au-delà du seuil de -8 % (79,06 €) ; plus bas du jour à 77,99 €. Cinquième séance de baisse consécutive (82,71 € le 03/11 → 78,75 €). Sortie de la position, thèse mise en pause en attendant une stabilisation — la glissade du pétrole pèse plus lourd que le rendement du dividende pour l'instant.",
+      "rationale": "Ré-entrée le 13/11/2026 : retournement confirmé — trois clôtures consécutives au-dessus de 79 € (79,37 € puis 80,63 € puis 82,17 €), soit +5,1 % depuis le plus bas de 78,20 € le 11/11. Le rebond s'appuie sur des résultats T3 supérieurs aux attentes (4,03 $/action contre 3,92 $ attendus), des marges de raffinage solides et une production en hausse de 3 %. La thèse de fond (rendement ~7 %, multi-énergies) n'a pas changé ; stop suiveur -8 % réarmé (~75,60 €).",
       "risks": "Prix du pétrole, pression ESG et fiscale.",
-      "stop_loss": "68 €",
-      "stop_price": 68.0,
+      "stop_loss": "75,60 €",
+      "stop_price": 75.6,
       "symbol": "TTE.PA",
       "target": "95 €",
-      "target_pct": 0.0,
+      "target_pct": 13.5,
       "target_price": 95.0,
       "thesis": "Rendement dividende ~7 %, stratégie multi-énergies (GNL + renouvelables), discipline d'investissement.",
       "trailing_stop_pct": 8.0
     },
     {
-      "action": "buy",
+      "action": "trim",
       "currency": "EUR",
-      "entry_plan": "Entrée sous 73 €.",
+      "entry_plan": "Allègement de moitié le 16/11 à 88,32 € après objectif atteint ; solde conservé, stop suiveur -8 % (~82 €).",
       "name": "Sanofi",
       "partial_tp": {
         "sell_pct": 50.0,
         "trigger_pct": 6.0
       },
-      "rationale": "Transition crypto terminée : retour au renforcement normal à 13,5 % — thèse inchangée.",
+      "rationale": "Objectif 88 € atteint en clôture le 16/11/2026 (88,32 €, plus haut du jour 89,00 €) — l'objectif 12-18 mois est atteint en un mois, soit +21 % environ depuis l'entrée sous 73 € (+5,5 % sur 5 séances, +22,8 % sur 1 mois, RSI à 82 : titre suracheté). Prise de bénéfices partielle : on allège de moitié (13,5 % → 6,75 %) et on laisse courir le solde vers 95 €, proche de l'objectif moyen des analystes (~96 €). Thèse inchangée (Dupixent, pipeline, rendement ~5 %) ; stop suiveur -8 % relevé à ~82 € pour protéger le gain.",
       "risks": "Échecs cliniques, pression sur les prix aux US.",
-      "stop_loss": "62 €",
-      "stop_price": 62.0,
+      "stop_loss": "82 €",
+      "stop_price": 81.88,
       "symbol": "SAN.PA",
-      "target": "88 €",
-      "target_pct": 13.5,
-      "target_price": 88.0,
+      "target": "95 €",
+      "target_pct": 6.75,
+      "target_price": 95.0,
       "thesis": "Pipeline pharma (Dupixent et suivants), décote face aux pairs, rendement ~5 %.",
       "trailing_stop_pct": 8.0
     },
@@ -101,90 +101,90 @@
       "trailing_stop_pct": 8.0
     },
     {
-      "action": "sell",
+      "action": "buy",
       "currency": "EUR",
-      "entry_plan": "Entrée sur repli de 10 % depuis 1477 €.",
+      "entry_plan": "Ré-entrée le 10/11 à 1 361 € après confirmation du rebond ; stop suiveur -8 % (~1 252 €).",
       "name": "ASML Holding N.V.",
       "partial_tp": {
         "sell_pct": 50.0,
         "trigger_pct": 6.0
       },
-      "rationale": "Stop suiveur déclenché le 03/11/2026 : ASML a touché 1 358 € à l'ouverture, soit -10,3 % sous son plus haut du 29/10 (1 514,40 €), au-delà du seuil de -8 % (1 393,25 €) ; la clôture à 1 385 € (-8,5 % sous ce plus haut) confirme le repli. Sortie de la position, thèse mise en pause en attendant un nouveau point d'entrée — le repli sectoriel des semi-conducteurs l'emporte pour l'instant sur le monopole EUV.",
+      "rationale": "Ré-entrée le 10/11/2026 : la confirmation du rebond attendue depuis le 09/11 est là — ASML clôture à 1 361 €, deuxième séance de hausse consécutive (+4,7 % le 09/11 puis +1,3 %), soit +7 % au-dessus du plus bas de 1 271,60 €, et repasse au-dessus de la zone de ré-entrée (~1 329 €). Le rebond est sectoriel : indice PHLX Semiconductor +6,9 % lundi, Samsung +4,7 %, SK hynix +6,7 %, TSMC +2,2 % mardi, Infineon +6 % sur des perspectives 2027 solides. La thèse de fond (monopole EUV, vague IA) n'a pas changé ; stop suiveur -8 % maintenu. Mise à jour 16/11 : repli à 1 306,60 € (-2,4 %) dans une chute sectorielle des semi-conducteurs avant les résultats de Nvidia (SOX -4 %, ASMI -3,5 %, Infineon -1,3 %), sans nouvelle propre à ASML. Le plus bas du jour (1 289,40 €) a frôlé le stop suiveur rehaussé à ~1 291,50 € (plus haut depuis la ré-entrée : 1 403,80 € le 11/11) mais la clôture reste au-dessus : pas de déclenchement, on attend une confirmation en clôture sous 1 291,50 € pour sortir.",
       "risks": "Restrictions d'export vers la Chine, cyclicité des semi-conducteurs.",
-      "stop_loss": "-15 % (~1255 €)",
-      "stop_price": 1255.0,
+      "stop_loss": "~1 291,50 €",
+      "stop_price": 1291.5,
       "symbol": "ASML.AS",
       "target": "+25 % (~1846 €)",
-      "target_pct": 0.0,
+      "target_pct": 13.5,
       "target_price": 1846.0,
       "thesis": "Monopole de la lithographie EUV, indispensable à la vague IA, carnet de commandes solide.",
       "trailing_stop_pct": 8.0
     },
     {
-      "symbol": "BTC-EUR",
-      "name": "Bitcoin",
-      "currency": "EUR",
+      "action": "sell",
       "asset": "crypto",
-      "action": "buy",
-      "target_pct": 8.0,
-      "trailing_stop_pct": 15.0,
+      "currency": "EUR",
+      "entry_plan": "Ré-entrée possible sur stabilisation au-dessus de 66 000 €, après retournement confirmé.",
+      "name": "Bitcoin",
       "partial_tp": {
-        "trigger_pct": 12.0,
-        "sell_pct": 50.0
+        "sell_pct": 50.0,
+        "trigger_pct": 12.0
       },
-      "thesis": "L'actif de référence du marché crypto : offre fixe (21 millions), adoption institutionnelle, le plus liquide et le moins risqué de la poche crypto.",
+      "rationale": "Stop suiveur -15 % déclenché le 13/11/2026 : Bitcoin a clôturé à 62 359 €, soit -17,4 % sous son plus haut du test (~75 514 €), au-delà du seuil de 64 187 € ; plus bas du jour à 61 536 €. La chute s'accélère sur tout le marché crypto : BTC sous 69 000 $ pour la première fois depuis août, démission surprise du PDG de Nvidia, inflation US plus chaude que prévu, sorties nettes des ETF Bitcoin  (~1,44 Md$ en 5 séances) et ~1,4 Md$ de liquidations en 24 h. Sortie de la poche crypto, la règle de protection s'applique — la poche crypto du test est désormais vide (ETH et SOL déjà sortis).",
       "risks": "Volatilité extrême (±10 % par jour possible), régulation, corrélation aux actifs risqués.",
-      "entry_plan": "Entrée directe, poche de 8 % du portefeuille.",
-      "target": "95 000 €",
-      "target_price": 95000.0,
       "stop_loss": "55 000 €",
       "stop_price": 55000.0,
-      "rationale": "Pilier de la poche crypto : on accepte la volatilité, stop suiveur élargi à -15 %."
+      "symbol": "BTC-EUR",
+      "target": "95 000 €",
+      "target_pct": 0.0,
+      "target_price": 95000.0,
+      "thesis": "L'actif de référence du marché crypto : offre fixe (21 millions), adoption institutionnelle, le plus liquide et le moins risqué de la poche crypto.",
+      "trailing_stop_pct": 15.0
     },
     {
-      "symbol": "ETH-EUR",
-      "name": "Ethereum",
-      "currency": "EUR",
-      "asset": "crypto",
       "action": "sell",
-      "target_pct": 0.0,
-      "trailing_stop_pct": 15.0,
-      "partial_tp": {
-        "trigger_pct": 12.0,
-        "sell_pct": 50.0
-      },
-      "thesis": "Plateforme de contrats intelligents dominante, écosystème d'applications le plus large, une partie des frais est brûlée.",
-      "risks": "Volatilité, concurrence d'autres blockchains, régulation.",
+      "asset": "crypto",
+      "currency": "EUR",
       "entry_plan": "Ré-entrée possible sur stabilisation au-dessus de 1 950 €, après retournement confirmé.",
-      "target": "3 000 €",
-      "target_price": 3000.0,
+      "name": "Ethereum",
+      "partial_tp": {
+        "sell_pct": 50.0,
+        "trigger_pct": 12.0
+      },
+      "rationale": "Stop suiveur -15 % déclenché : Ethereum a clôturé à 1 902,68 € le 08/11 puis 1 896,36 € le 09/11, soit -15,5 % sous son plus haut du test (2 245,53 € le 21/10), au-delà du seuil de 1 908,70 € ; plus bas du jour à 1 867,16 €. Sortie de la poche crypto, la règle de protection s'applique — le repli s'accélère sur tout le marché crypto.",
+      "risks": "Volatilité, concurrence d'autres blockchains, régulation.",
       "stop_loss": "1 600 €",
       "stop_price": 1600.0,
-      "rationale": "Stop suiveur -15 % déclenché : Ethereum a clôturé à 1 902,68 € le 08/11 puis 1 896,36 € le 09/11, soit -15,5 % sous son plus haut du test (2 245,53 € le 21/10), au-delà du seuil de 1 908,70 € ; plus bas du jour à 1 867,16 €. Sortie de la poche crypto, la règle de protection s'applique — le repli s'accélère sur tout le marché crypto."
+      "symbol": "ETH-EUR",
+      "target": "3 000 €",
+      "target_pct": 0.0,
+      "target_price": 3000.0,
+      "thesis": "Plateforme de contrats intelligents dominante, écosystème d'applications le plus large, une partie des frais est brûlée.",
+      "trailing_stop_pct": 15.0
     },
     {
-      "symbol": "SOL-EUR",
-      "name": "Solana",
-      "currency": "EUR",
-      "asset": "crypto",
       "action": "sell",
-      "target_pct": 0.0,
-      "trailing_stop_pct": 15.0,
-      "partial_tp": {
-        "trigger_pct": 12.0,
-        "sell_pct": 50.0
-      },
-      "thesis": "Blockchain rapide à frais très faibles, écosystème en forte croissance.",
-      "risks": "La plus volatile des trois, historique de pannes réseau, régulation.",
+      "asset": "crypto",
+      "currency": "EUR",
       "entry_plan": "Ré-entrée possible sur stabilisation au-dessus de 85 €, après retournement confirmé.",
-      "target": "140 €",
-      "target_price": 140.0,
+      "name": "Solana",
+      "partial_tp": {
+        "sell_pct": 50.0,
+        "trigger_pct": 12.0
+      },
+      "rationale": "Stop suiveur -15 % déclenché le 05/11/2026 : Solana a clôturé à 79,39 €, soit -16,5 % sous son plus haut du test (95,06 € le 21/10), au-delà du seuil de 80,80 € ; le 07/11 il reste sous ce seuil à 80,63 €. Sortie de la poche satellite, la plus volatile des trois cryptos — la règle de protection s'applique, même si la thèse de fond reste intacte.",
+      "risks": "La plus volatile des trois, historique de pannes réseau, régulation.",
       "stop_loss": "65 €",
       "stop_price": 65.0,
-      "rationale": "Stop suiveur -15 % déclenché le 05/11/2026 : Solana a clôturé à 79,39 €, soit -16,5 % sous son plus haut du test (95,06 € le 21/10), au-delà du seuil de 80,80 € ; le 07/11 il reste sous ce seuil à 80,63 €. Sortie de la poche satellite, la plus volatile des trois cryptos — la règle de protection s'applique, même si la thèse de fond reste intacte."
+      "symbol": "SOL-EUR",
+      "target": "140 €",
+      "target_pct": 0.0,
+      "target_price": 140.0,
+      "thesis": "Blockchain rapide à frais très faibles, écosystème en forte croissance.",
+      "trailing_stop_pct": 15.0
     }
   ],
-  "notes": "TotalEnergies vendue le 09/11/2026 après déclenchement de son stop suiveur -8 % (plus haut 85,94 € le 30/10, seuil 79,06 € franchi en clôture à 78,75 €). Ethereum vendu le 09/11/2026 après déclenchement de son stop suiveur -15 % (plus haut 2 245,53 € le 21/10, seuil 1 908,70 € franchi dès le 08/11 à 1 902,68 €, confirmé le 09/11). ASML : la zone de ré-entrée (~1 329 €) a été touchée en séance le 09/11 (plus bas 1 271,60 €) avec un rebond de +4,7 % en clôture — on attend une confirmation avant de revenir. Bitcoin sous surveillance : -11,7 % sous son plus haut (seuil -15 % à 64 187 €). Solana vendue le 07/11/2026, ASML vendue le 03/11/2026 (stops suiveurs déclenchés). Pistes de réflexion, pas des conseils d'achat.",
+  "notes": "Flux v12 (16/11/2026) : SANOFI — OBJECTIF ATTEINT en clôture à 88,32 € (plus haut 89,00 €) : allègement de moitié (13,5 % → 6,75 %), objectif relevé à 95 € pour le solde, stop suiveur relevé à ~82 €. ASML en repli à 1 306,60 € (-2,4 %, chute sectorielle avant Nvidia) : plus bas du jour 1 289,40 €, juste sous le stop suiveur ~1 291,50 €, mais clôture au-dessus — pas de déclenchement, stop rehaussé à 1 291,50 €, à surveiller. LVMH 404,00 €, TotalEnergies 81,96 €, AAPL 353,59 $, MSFT 521,37 $ : rien à signaler. Cryptos toujours sous leurs seuils de ré-entrée (BTC 58 979 € / 66 000 €, ETH 1 653 € / 1 950 €, SOL 64,78 € / 85 €), poche crypto vide. Pistes de réflexion, pas des conseils d'achat.",
   "publisher": "Best_Pasqua",
   "test": {
     "benchmark": "^FCHI",
@@ -192,6 +192,6 @@
     "max_drawdown_pct": 8.0,
     "start_date": "2026-10-18"
   },
-  "updated_at": "2026-11-09",
-  "version": 9
+  "updated_at": "2026-11-16",
+  "version": 12
 }
