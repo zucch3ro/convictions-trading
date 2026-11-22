@@ -1,21 +1,21 @@
 {
   "convictions": [
     {
-      "action": "buy",
+      "action": "sell",
       "currency": "EUR",
-      "entry_plan": "Entrée par paliers sous 400 €, idéal en DCA.",
+      "entry_plan": "Ré-entrée possible sur stabilisation au-dessus de 397 €, après retournement confirmé.",
       "name": "LVMH Moët Hennessy Louis Vuitton SE",
       "partial_tp": {
         "sell_pct": 50.0,
         "trigger_pct": 6.0
       },
-      "rationale": "Transition crypto terminée : retour au renforcement normal à 13,5 % — thèse inchangée.",
+      "rationale": "Stop suiveur -8 % déclenché en clôture le 20/11/2026 : LVMH clôture à 381,95 €, soit -11,4 % sous son plus haut depuis le début du test (431,15 € le 05/11), au-delà du seuil de 396,66 € ; le seuil avait déjà été franchi en clôture le 17/11 (393,00 €) et les quatre clôtures suivantes sont restées sous le seuil. Le repli s'inscrit dans la correction générale des marchés (Nasdaq -5,3 % vendredi, S&P 500 en correction, doutes sur le retour des investissements IA) et le luxe n'est pas épargné. Sortie de la position, la règle de protection s'applique — la thèse de fond (pricing power, 75 maisons, valorisation redevenue raisonnable) reste intacte.",
       "risks": "Ralentissement Chine, dollar faible, consommation discrétionnaire.",
-      "stop_loss": "340 €",
-      "stop_price": 340.0,
+      "stop_loss": "~396,66 € (déclenché)",
+      "stop_price": 396.66,
       "symbol": "MC.PA",
       "target": "480 € à 12-18 mois",
-      "target_pct": 13.5,
+      "target_pct": 0.0,
       "target_price": 480.0,
       "thesis": "Leader mondial du luxe, pricing power exceptionnel, 75 maisons diversifiées ; valorisation redevenue raisonnable après la correction du secteur.",
       "trailing_stop_pct": 8.0
@@ -81,21 +81,21 @@
       "trailing_stop_pct": 8.0
     },
     {
-      "action": "buy",
+      "action": "sell",
       "currency": "USD",
-      "entry_plan": "Entrée sous 540 $.",
+      "entry_plan": "Ré-entrée possible sur stabilisation au-dessus de 515 $, après retournement confirmé.",
       "name": "Microsoft Corporation",
       "partial_tp": {
         "sell_pct": 50.0,
         "trigger_pct": 6.0
       },
-      "rationale": "Transition crypto terminée : retour au renforcement normal à 13,5 % — thèse inchangée.",
+      "rationale": "Stop suiveur -8 % déclenché en clôture le 20/11/2026 : Microsoft clôture à 484,52 $, soit -13,3 % sous son plus haut depuis le début du test (559,15 $ le 04/11), au-delà du seuil de 514,42 $ ; le seuil avait déjà été franchi en clôture le 17/11 (506,24 $) et les quatre clôtures suivantes sont restées sous le seuil. La baisse s'accélère avec les doutes du marché sur le retour des investissements IA — Microsoft est au cœur du sujet avec ses dépenses massives dans Azure et les centres de données — et le Nasdaq perd 5,3 % vendredi, le S&P 500 entrant en correction. Sortie de la position, la règle de protection s'applique — la thèse de fond (Azure + IA, Office en abonnement) reste intacte.",
       "risks": "Valorisation, concurrence IA.",
-      "stop_loss": "450 $",
-      "stop_price": 450.0,
+      "stop_loss": "~514,42 $ (déclenché)",
+      "stop_price": 514.42,
       "symbol": "MSFT",
       "target": "640 $",
-      "target_pct": 13.5,
+      "target_pct": 0.0,
       "target_price": 640.0,
       "thesis": "Azure + IA, Office en abonnement, croissance bénéficiaire régulière.",
       "trailing_stop_pct": 8.0
@@ -184,7 +184,7 @@
       "trailing_stop_pct": 15.0
     }
   ],
-  "notes": "Flux v13 (17/11/2026) : ASML — STOP SUIVEUR DÉCLENCHÉ en clôture à 1 236,80 € (-5,3 %), sous le seuil de 1 291,50 € : sortie de la position (plus bas du jour 1 231 € ; chute sectorielle avant les résultats de Nvidia et nouvelles restrictions US sur les puces IA). LVMH 393,00 € (-2,7 %), TotalEnergies 81,98 €, Sanofi 86,56 € (-2,0 %), AAPL 350,59 $, MSFT 501,81 $ (-3,1 %) : rien à signaler. Cryptos toujours sous leurs seuils de ré-entrée (BTC 57 751 € / 66 000 €, ETH 1 618 € / 1 950 €, SOL 65,47 € / 85 €), poche crypto vide. Pistes de réflexion, pas des conseils d'achat.",
+  "notes": "Flux v14 (22/11/2026) : STOPS SUIVEURS DÉCLENCHÉS — LVMH clôture à 381,95 € (-11,4 % sous son plus haut de 431,15 €, seuil 396,66 €) et Microsoft à 484,52 $ (-13,3 % sous son plus haut de 559,15 $, seuil 514,42 $) : sorties des deux positions, seuils franchis dès le 17/11 et confirmés par quatre clôtures consécutives sous les seuils. Vendredi noir sur les marchés : Nasdaq -5,28 %, S&P 500 -3,7 % (correction), Nvidia -14 % (enquête SEC rapportée par Reuters, doutes sur le retour des investissements IA). TotalEnergies 78,19 € (stop 75,60 € non touché, plus bas 77,87 € ; repasse sous 79 € — à surveiller), Sanofi 84,92 € (stop 81,88 € frôlé en séance le 19/11 à 81,93 €, non touché), AAPL 342,56 $ (stop 295 $). ASML 1 168,00 € (-9,3 % vendredi) : sortie confirmée, toujours sous le seuil de ré-entrée de 1 300 €. Cryptos toujours sous leurs seuils de ré-entrée (BTC 55 330 € / 66 000 €, ETH 1 563 € / 1 950 €, SOL 64,19 € / 85 €), poche crypto vide. Pistes de réflexion, pas des conseils d'achat.",
   "publisher": "Best_Pasqua",
   "test": {
     "benchmark": "^FCHI",
@@ -192,6 +192,6 @@
     "max_drawdown_pct": 8.0,
     "start_date": "2026-10-18"
   },
-  "updated_at": "2026-11-17",
-  "version": 13
+  "updated_at": "2026-11-22",
+  "version": 14
 }
