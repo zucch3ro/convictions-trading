@@ -1,21 +1,21 @@
 {
   "convictions": [
     {
-      "action": "sell",
+      "action": "buy",
       "currency": "EUR",
-      "entry_plan": "Ré-entrée possible sur stabilisation au-dessus de 397 €, après retournement confirmé.",
+      "entry_plan": "Ré-entrée le 26/11/2026 à 401,05 € ; stop suiveur -8 % (~369 €).",
       "name": "LVMH Moët Hennessy Louis Vuitton SE",
       "partial_tp": {
         "sell_pct": 50.0,
         "trigger_pct": 6.0
       },
-      "rationale": "Stop suiveur -8 % déclenché en clôture le 20/11/2026 : LVMH clôture à 381,95 €, soit -11,4 % sous son plus haut depuis le début du test (431,15 € le 05/11), au-delà du seuil de 396,66 € ; le seuil avait déjà été franchi en clôture le 17/11 (393,00 €) et les quatre clôtures suivantes sont restées sous le seuil. Le repli s'inscrit dans la correction générale des marchés (Nasdaq -5,3 % vendredi, S&P 500 en correction, doutes sur le retour des investissements IA) et le luxe n'est pas épargné. Sortie de la position, la règle de protection s'applique — la thèse de fond (pricing power, 75 maisons, valorisation redevenue raisonnable) reste intacte.",
+      "rationale": "Ré-entrée le 26/11/2026 : LVMH clôture à 401,05 € (+2,6 % sur la séance, plus haut du jour 403,80 €), au-dessus du seuil de ré-entrée de 397 € et de la barre des 400 € — cinq clôtures en reprise (381,95 € → 388,80 € → 394,70 € → 391,00 € → 401,05 €), soit +5,0 % depuis le plus bas du 20/11. Le retournement est confirmé et soutenu par des catalyseurs : UBS confirme son « Buy » avec un objectif de 510 € (croissance organique attendue de +2 % en 2027), la clarification de la succession (nouveaux statuts d'Agache, limite d'âge du gérant portée à 95 ans, visibilité long terme saluée par le marché) et le rebond général des marchés européens (Euro Stoxx 50 +2,1 %, CAC 40 +1,7 %). Acompte sur dividende de 5,50 € détaché le 01/12. Stop suiveur -8 % réarmé (~369 €), objectif 480 € inchangé — la thèse de fond (pricing power, 75 maisons, valorisation redevenue raisonnable) reste intacte.",
       "risks": "Ralentissement Chine, dollar faible, consommation discrétionnaire.",
-      "stop_loss": "~396,66 € (déclenché)",
-      "stop_price": 396.66,
+      "stop_loss": "~369 €",
+      "stop_price": 369.0,
       "symbol": "MC.PA",
       "target": "480 € à 12-18 mois",
-      "target_pct": 0.0,
+      "target_pct": 13.5,
       "target_price": 480.0,
       "thesis": "Leader mondial du luxe, pricing power exceptionnel, 75 maisons diversifiées ; valorisation redevenue raisonnable après la correction du secteur.",
       "trailing_stop_pct": 8.0
@@ -43,20 +43,20 @@
     {
       "action": "trim",
       "currency": "EUR",
-      "entry_plan": "Allègement de moitié le 16/11 à 88,32 € après objectif atteint ; solde conservé, stop suiveur -8 % (~82 €).",
+      "entry_plan": "Allègement de moitié le 16/11 à 88,32 € après objectif atteint ; solde conservé vers 100 €, stop suiveur -8 % relevé à ~86,70 €.",
       "name": "Sanofi",
       "partial_tp": {
         "sell_pct": 50.0,
         "trigger_pct": 6.0
       },
-      "rationale": "Objectif 88 € atteint en clôture le 16/11/2026 (88,32 €, plus haut du jour 89,00 €) — l'objectif 12-18 mois est atteint en un mois, soit +21 % environ depuis l'entrée sous 73 € (+5,5 % sur 5 séances, +22,8 % sur 1 mois, RSI à 82 : titre suracheté). Prise de bénéfices partielle : on allège de moitié (13,5 % → 6,75 %) et on laisse courir le solde vers 95 €, proche de l'objectif moyen des analystes (~96 €). Thèse inchangée (Dupixent, pipeline, rendement ~5 %) ; stop suiveur -8 % relevé à ~82 € pour protéger le gain.",
+      "rationale": "Bond de +9,9 % le 24/11/2026 (85,26 € → 93,58 €, plus haut du jour 94,27 €) — plus forte hausse journalière depuis 2008 — sur l'annonce du rachat d'Insmed pour 41 Md$ en numéraire (175 $/action, prime ~17,5 %), la plus grosse acquisition de Sanofi depuis plus de vingt ans. L'opération ajoute un portefeuille respiratoire commercial et un pipeline qui diversifie le groupe au-delà du Dupixent ; relutive pour le bénéfice net par action d'ici fin 2028, clôture attendue au 1er semestre 2027, financée par dette et trésorerie. La thèse change de nature : ce n'est plus seulement une histoire de pipeline, c'est un repositionnement stratégique salué par le marché. Le 25/11, le titre poursuit à +4,9 % (98,16 €, plus haut du jour 98,86 €) et s'approche de l'objectif de 100 €. Le 26/11, il consolide à 98,83 € (plus haut du jour 99,87 €), à 1,2 % de l'objectif. Stop suiveur -8 % relevé à ~91,88 € (sous le plus haut du jour de 99,87 €) pour protéger le gain (+35 % environ depuis l'entrée sous 73 €). Risque d'exécution : intégration d'une opération de 41 Md$ financée en partie par de la dette.",
       "risks": "Échecs cliniques, pression sur les prix aux US.",
-      "stop_loss": "82 €",
-      "stop_price": 81.88,
+      "stop_loss": "~91,88 €",
+      "stop_price": 91.88,
       "symbol": "SAN.PA",
-      "target": "95 €",
+      "target": "100 €",
       "target_pct": 6.75,
-      "target_price": 95.0,
+      "target_price": 100.0,
       "thesis": "Pipeline pharma (Dupixent et suivants), décote face aux pairs, rendement ~5 %.",
       "trailing_stop_pct": 8.0
     },
@@ -109,8 +109,8 @@
         "sell_pct": 50.0,
         "trigger_pct": 6.0
       },
-      "rationale": "Stop suiveur -8 % déclenché en clôture le 17/11/2026 : ASML clôture à 1 236,80 € (-5,3 % sur la séance), soit -11,9 % sous son plus haut depuis la ré-entrée (1 403,80 € le 11/11), au-delà du seuil de 1 291,50 € ; plus bas du jour à 1 231 €. La chute est sectorielle : nouvelles restrictions américaines sur les exportations de puces IA vers les centres de données d'Asie du Sud-Est et du Brésil, nervosité avant les résultats de Nvidia publiés ce soir (premiers sans Jensen Huang, dont la démission surprise secoue le secteur), et doutes persistants sur les retours des investissements IA (SOX en repli, Micron -5,5 %, Nvidia -3,1 %). Sortie de la position, la règle de protection s'applique — la thèse de fond (monopole EUV, carnet de commandes plein) reste intacte.",
-      "risks": "Restrictions d'export vers la Chine, cyclicité des semi-conducteurs.",
+      "rationale": "Stop suiveur -8 % déclenché en clôture le 17/11/2026 : ASML clôture à 1 236,80 € (-5,3 % sur la séance), soit -11,9 % sous son plus haut depuis la ré-entrée (1 403,80 € le 11/11), au-delà du seuil de 1 291,50 € ; plus bas du jour à 1 231 €. La chute est sectorielle : nouvelles restrictions américaines sur les exportations de puces IA vers les centres de données d'Asie du Sud-Est et du Brésil, nervosité avant les résultats de Nvidia publiés ce soir (premiers sans Jensen Huang, dont la démission surprise secoue le secteur), et doutes persistants sur les retours des investissements IA (SOX en repli, Micron -5,5 %, Nvidia -3,1 %). Sortie de la position, la règle de protection s'applique — la thèse de fond (monopole EUV, carnet de commandes plein) reste intacte. Le 25/11, ASML chute encore de -5,8 % (1 201,20 € → 1 131,60 €) sur le projet de loi américain MATCH Act qui imposerait aux alliés des contrôles d'export renforcés vers la Chine, et la défiance générale envers les valeurs IA ; la position est déjà sortie, le seuil de ré-entrée reste 1 300 €.",
+      "risks": "Restrictions d'export vers la Chine (projet de loi américain MATCH Act : contrôles renforcés sur les équipements DUV, la Chine pèse ~20 % du chiffre d'affaires), cyclicité des semi-conducteurs.",
       "stop_loss": "~1 291,50 € (déclenché)",
       "stop_price": 1291.5,
       "symbol": "ASML.AS",
@@ -184,7 +184,7 @@
       "trailing_stop_pct": 15.0
     }
   ],
-  "notes": "Flux v14 (22/11/2026) : STOPS SUIVEURS DÉCLENCHÉS — LVMH clôture à 381,95 € (-11,4 % sous son plus haut de 431,15 €, seuil 396,66 €) et Microsoft à 484,52 $ (-13,3 % sous son plus haut de 559,15 $, seuil 514,42 $) : sorties des deux positions, seuils franchis dès le 17/11 et confirmés par quatre clôtures consécutives sous les seuils. Vendredi noir sur les marchés : Nasdaq -5,28 %, S&P 500 -3,7 % (correction), Nvidia -14 % (enquête SEC rapportée par Reuters, doutes sur le retour des investissements IA). TotalEnergies 78,19 € (stop 75,60 € non touché, plus bas 77,87 € ; repasse sous 79 € — à surveiller), Sanofi 84,92 € (stop 81,88 € frôlé en séance le 19/11 à 81,93 €, non touché), AAPL 342,56 $ (stop 295 $). ASML 1 168,00 € (-9,3 % vendredi) : sortie confirmée, toujours sous le seuil de ré-entrée de 1 300 €. Cryptos toujours sous leurs seuils de ré-entrée (BTC 55 330 € / 66 000 €, ETH 1 563 € / 1 950 €, SOL 64,19 € / 85 €), poche crypto vide. Pistes de réflexion, pas des conseils d'achat.",
+  "notes": "Flux v17 (26/11/2026) : LVMH RÉ-ENTRÉE — clôture à 401,05 € (+2,6 %), au-dessus du seuil de 397 € et des 400 €, cinq clôtures en reprise ; UBS confirme « Buy » (objectif 510 €), succession clarifiée (statuts Agache, limite d'âge 95 ans), rebond des marchés européens ; stop suiveur réarmé ~369 €, objectif 480 €. Sanofi 98,83 € (plus haut 99,87 €), à 1,2 % de l'objectif de 100 € — stop suiveur relevé à ~91,88 €. TotalEnergies 78,36 € (stop 75,60 € non touché ; -4,6 % depuis la ré-entrée à 82,17 € — thèse inchangée). ASML rebondit à 1 168,20 € (+3,2 %) mais reste sous le seuil de ré-entrée de 1 300 €. Microsoft 489,93 $ (seuil 515 $), Apple 355,58 $ (stop 295 $). Marchés US fermés le 26/11 (Thanksgiving) : cours US = clôtures du 25/11. Cryptos toujours sous leurs seuils de ré-entrée (BTC 55 108 € / 66 000 €, ETH 1 542,72 € / 1 950 €, SOL 64,75 € / 85 €), poche crypto vide. Pistes de réflexion, pas des conseils d'achat.",
   "publisher": "Best_Pasqua",
   "test": {
     "benchmark": "^FCHI",
@@ -192,6 +192,6 @@
     "max_drawdown_pct": 8.0,
     "start_date": "2026-10-18"
   },
-  "updated_at": "2026-11-22",
-  "version": 14
+  "updated_at": "2026-11-26",
+  "version": 17
 }
